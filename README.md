@@ -87,8 +87,12 @@ Este documento apresenta a visão consolidada do sistema GAC (Gestão de Ativos 
 ---
 
 ## 6. Diagramas UML
-*(Nota: Adicione as imagens exportadas do PDF na pasta `/diagrams` do repositório e chame-as aqui abaixo)*
 
-- **Diagrama de Casos de Uso:** `![Casos de Uso](./diagrams/casos_de_uso.png)`
-- **Diagrama de Classes:** `![Diagrama de Classes](./diagrams/classes.png)`
-- **Diagrama de Sequência:** `![Diagrama de Sequencia](./diagrams/sequencia.png)`
+- **Diagrama de Casos de Uso:**
+![Casos de Uso](casos_de_uso.png)
+
+- **Diagrama de Classes:**
+![Diagrama de Classes](classes.png)
+
+- **Diagrama de Sequência:**
+![Diagrama de Sequencia](sequencia.png)
