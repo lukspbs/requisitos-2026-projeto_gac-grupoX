@@ -566,7 +566,7 @@ A seguir, a especificação detalhada dos casos de uso mais relevantes do GAC. P
 
 O diagrama de classes apresenta a estrutura estática do domínio do GAC, refletindo as especializações de *Usuario* em quatro perfis e a separação entre *Solicitacao* (pedido feito pelo professor via app) e *Emprestimo* (confirmação efetivada pelo atendente no balcão).
 
-![Diagrama de Classes](diagrama_de_classes.png)
+![Diagrama de Classes](classes.png)
 *Figura 8.2 — Diagrama de Classes do Sistema GAC (14 classes)*
 
 ### 8.3.1 Principais Relacionamentos
@@ -586,7 +586,7 @@ O diagrama de classes apresenta a estrutura estática do domínio do GAC, reflet
 
 O diagrama de sequência abaixo modela o cenário central do GAC: **"Registrar Retirada no Balcão"**. Ele cobre desde a seleção do pedido pendente pelo atendente até a confirmação do empréstimo, incluindo o aceite digital do termo pelo professor no celular.
 
-![Diagrama de Sequência](diagrama_de_sequencia.png)
+![Diagrama de Sequência](sequencia.png)
 *Figura 8.3 — Diagrama de Sequência: Registrar Retirada no Balcão*
 
 ### 8.4.1 Cenário Modelado
