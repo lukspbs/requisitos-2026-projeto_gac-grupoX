@@ -586,7 +586,7 @@ O diagrama de classes apresenta a estrutura estática do domínio do GAC, reflet
 
 O diagrama de sequência abaixo modela o cenário central do GAC: **"Registrar Retirada no Balcão"**. Ele cobre desde a seleção do pedido pendente pelo atendente até a confirmação do empréstimo, incluindo o aceite digital do termo pelo professor no celular.
 
-![Diagrama de Sequência](sequencia.png)
+![Diagrama de Sequência](sequencia.PNG)
 *Figura 8.3 — Diagrama de Sequência: Registrar Retirada no Balcão*
 
 ### 8.4.1 Cenário Modelado
