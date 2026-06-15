@@ -566,7 +566,7 @@ A seguir, a especificação detalhada dos casos de uso mais relevantes do GAC. P
 
 O diagrama de classes apresenta a estrutura estática do domínio do GAC, refletindo as especializações de *Usuario* em quatro perfis e a separação entre *Solicitacao* (pedido feito pelo professor via app) e *Emprestimo* (confirmação efetivada pelo atendente no balcão).
 
-![Diagrama de Classes](classes.png)
+![Diagrama de Classes](classes.PNG)
 *Figura 8.2 — Diagrama de Classes do Sistema GAC (14 classes)*
 
 ### 8.3.1 Principais Relacionamentos
