@@ -24,6 +24,9 @@ Este documento apresenta a visão consolidada do sistema GAC (Gestão de Ativos 
 - Perda de rastreabilidade dos ativos patrimoniais.
 - Risco de extravio, dano ou troca de equipamentos sem responsável claramente identificado.
 - Tempo elevado de retirada e devolução, prejudicando o início pontual das aulas.
+- Falta de histórico consolidado para auditoria, planejamento de compras e manutenção.
+- Dificuldade de comunicação entre atendentes, coordenação e professores sobre prazos e atrasos.
+
 
 ---
 
